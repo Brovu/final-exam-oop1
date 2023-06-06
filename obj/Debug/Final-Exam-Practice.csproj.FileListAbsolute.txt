@@ -1,0 +1,8 @@
+D:\Documents\ASP Prject\Final-Exam-Practice\bin\Debug\Final-Exam-Practice.exe.config
+D:\Documents\ASP Prject\Final-Exam-Practice\bin\Debug\Final-Exam-Practice.exe
+D:\Documents\ASP Prject\Final-Exam-Practice\bin\Debug\Final-Exam-Practice.pdb
+D:\Documents\ASP Prject\Final-Exam-Practice\obj\Debug\Final-Exam-Practice.csproj.AssemblyReference.cache
+D:\Documents\ASP Prject\Final-Exam-Practice\obj\Debug\Final-Exam-Practice.csproj.SuggestedBindingRedirects.cache
+D:\Documents\ASP Prject\Final-Exam-Practice\obj\Debug\Final-Exam-Practice.csproj.CoreCompileInputs.cache
+D:\Documents\ASP Prject\Final-Exam-Practice\obj\Debug\Final-Exam-Practice.exe
+D:\Documents\ASP Prject\Final-Exam-Practice\obj\Debug\Final-Exam-Practice.pdb
